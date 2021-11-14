@@ -1,2 +1,2 @@
 # Gitlab
-Checkout my gitlab repository: https://gitlab.com/Miscavel
+Primarily use Gitlab. Checkout my gitlab repository: https://gitlab.com/Miscavel
